@@ -36,7 +36,7 @@ function AppContent() {
       <div className="min-h-screen bg-slate-950 flex flex-col items-center justify-center text-slate-400">
         <div className="w-10 h-10 border-2 border-emerald-500 border-t-transparent rounded-full animate-spin mb-4" />
         <p className="text-xs font-semibold tracking-wider uppercase text-emerald-400">
-          IMARA FINANCE • Security Verification
+          SAAS FINANCE • Security Verification
         </p>
       </div>
     );
